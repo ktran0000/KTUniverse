@@ -15,10 +15,12 @@
 1. Create a new character (enemy)
 2. Discover Weapon (optional)
 3. Discover Armor (optional)
-4. Save the character
-5. Create another character
-6. Discover Weapon (optional)
-7. Discover Armor (optional)
-8. Fight
+4. Change class (optional)
+5. Save the character
+6. Create another character
+7. Discover Weapon (optional)
+8. Discover Armor (optional)
+9. Change class (optional)
+10. Fight
 
 ## Rules ##
